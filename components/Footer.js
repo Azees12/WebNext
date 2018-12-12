@@ -2,7 +2,8 @@
 const Footer = () => (
     <div>
         <footer>
-            <p>News Org.com</p>
+            <p href="https://newsapi.org">News Org.com Power by News API </p>
+    
         </footer>
         <style jsx>{`
         footer {
